@@ -24,7 +24,7 @@ Why: Git, the shell and how software is built are assumed by every job.
 - [ ] Hands-on Introduction to Linux Commands and Shell Scripting — 17 h
 - [ ] Skip: Python for Data Science, AI & Development (you know Python) and Developing AI Applications with Python and Flask (you'll use FastAPI)
 
-**Free alternative:** [OSSU: The Missing Semester](https://github.com/ossu/computer-science) (shell, Git, tooling, 2 weeks)
+**Free alternative:** [OSSU: The Missing Semester](https://github.com/ossu/computer-science#cs-tools) (shell, Git, tooling, 2 weeks)
 
 **Done when:** you can clone, branch, open a pull request and run a script from the terminal without help. Make this repo's commits your practice.
 
@@ -35,7 +35,7 @@ Why: Git, the shell and how software is built are assumed by every job.
 - [ ] Relational Database Design — 35 h (ER models, normalization)
 - [ ] Optional: Advanced Topics and Future Trends in Database Technologies — 17 h (NoSQL: MongoDB, Redis)
 
-**Free alternative:** OSSU: Stanford Databases (Relational Databases and SQL; Modeling and Theory), ~2 weeks each.
+**Free alternative:** [OSSU: Stanford Databases](https://github.com/ossu/computer-science#core-applications) (Relational Databases and SQL; Modeling and Theory), ~2 weeks each.
 
 **Project 1:** Design a schema and write 20 non-trivial queries on a real dataset (e.g. your Canadian household spending data). Push the SQL and a README.
 
@@ -138,7 +138,7 @@ Why: many AI and software interviews have coding rounds.
 
 ## Skip list (decided)
 
-- Intro Python, calculus, most OSSU math, Nand to Tetris, OS/architecture courses
+- Intro Python, calculus, most OSSU math ([Core math](https://github.com/ossu/computer-science#core-math)), Nand to Tetris and OS/architecture courses ([Core systems](https://github.com/ossu/computer-science#core-systems))
 - Machine Learning basics, Deep Learning Specialization (~129 h)
 - Boulder Data Structures and Algorithms specialization (~199 h)
 - Edureka specializations, IBM multi-framework agents course, Microsoft AI & ML cert courses 1–3 and 5
