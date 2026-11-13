@@ -77,12 +77,13 @@ Why: you'll write and review code that others maintain, including code written b
 ## 4. Backend, APIs and Docker
 Why: this is where a model becomes a service other people can use.
 
-- **MUST** (~16 h)
+- **MUST** (~17 h)
   - [ ] [FastAPI official tutorial](https://fastapi.tiangolo.com/tutorial/): routes, validation, dependencies, testing, ~10 h
-  - [ ] [Docker: Get Started](https://docs.docker.com/get-started/), then write a Dockerfile for Project 2, ~6 h
+  - [ ] [Docker: Get Started](https://docs.docker.com/get-started/), then write a Dockerfile for Project 2 following [FastAPI in Containers](https://fastapi.tiangolo.com/deployment/docker/), ~7 h
   - [ ] Add structured logging to Project 2 ([Python logging how-to](https://docs.python.org/3/howto/logging.html))
 - **RECOMMENDED**
   - [ ] [Ultimate Guide to FastAPI and Backend Development](https://www.coursera.org/specializations/packt-ultimate-guide-to-fast-api-and-backend-development) (Packt, ~36 h): a structured course covering SQLModel, OAuth2/JWT, pytest, Docker, async and deployment. Rated 4.1 from only 27 reviews, so preview it first.
+  - [ ] Free alternative: [freeCodeCamp FastAPI course](https://www.classcentral.com/course/freecodecamp-fastapi-course-for-beginners-104922) (YouTube, ~19 h): Postgres, SQLAlchemy, JWT auth, testing and deployment. Do this or the Packt course, not both.
   - [ ] From the [IBM Back-End Development Professional Certificate](https://www.coursera.org/professional-certificates/ibm-backend-development): Introduction to Containers w/ Docker, Kubernetes & OpenShift (17 h, focus on Docker) and Monitoring and Observability for Development and DevOps (16 h)
 - **EXTRA**
   - [ ] IBM: Application Development using Microservices and Serverless, 16 h (same certificate)
